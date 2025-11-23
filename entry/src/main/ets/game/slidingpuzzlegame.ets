@@ -1,4 +1,4 @@
-import { createPuzzle, shufflePuzzle, } from './game';
+import { createPuzzle, shufflePuzzle } from './game';
 import { COLORS, PUZZLE_CONFIG } from './constants';
 import { PuzzleRenderer } from './puzzlerenderer';
 import { PuzzleController } from './puzzlecontroller';

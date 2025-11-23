@@ -1,4 +1,4 @@
-import { moveTile, moveTileByPosition, } from './game';
+import { moveTile, moveTileByPosition } from './game';
 import { Point, PuzzleState, SwipeDirection } from './types';
 import { PUZZLE_CONFIG } from './constants';
 
